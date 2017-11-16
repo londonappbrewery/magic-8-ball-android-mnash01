@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="decisionButton">Decide</string>
+    <string name="appText">Need to Make a Decision?</string>
 </resources>
